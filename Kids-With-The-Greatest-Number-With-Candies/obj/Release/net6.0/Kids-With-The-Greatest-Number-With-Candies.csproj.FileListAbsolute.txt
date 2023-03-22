@@ -1,0 +1,15 @@
+/Users/samuelperalta/Documents/repos/leetcode/LeetCode/Kids-With-The-Greatest-Number-With-Candies/obj/Release/net6.0/Kids-With-The-Greatest-Number-With-Candies.csproj.AssemblyReference.cache
+/Users/samuelperalta/Documents/repos/leetcode/LeetCode/Kids-With-The-Greatest-Number-With-Candies/obj/Release/net6.0/Kids-With-The-Greatest-Number-With-Candies.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samuelperalta/Documents/repos/leetcode/LeetCode/Kids-With-The-Greatest-Number-With-Candies/obj/Release/net6.0/Kids-With-The-Greatest-Number-With-Candies.AssemblyInfoInputs.cache
+/Users/samuelperalta/Documents/repos/leetcode/LeetCode/Kids-With-The-Greatest-Number-With-Candies/obj/Release/net6.0/Kids-With-The-Greatest-Number-With-Candies.AssemblyInfo.cs
+/Users/samuelperalta/Documents/repos/leetcode/LeetCode/Kids-With-The-Greatest-Number-With-Candies/obj/Release/net6.0/Kids-With-The-Greatest-Number-With-Candies.csproj.CoreCompileInputs.cache
+/Users/samuelperalta/Documents/repos/leetcode/LeetCode/Kids-With-The-Greatest-Number-With-Candies/bin/Release/net6.0/Kids-With-The-Greatest-Number-With-Candies
+/Users/samuelperalta/Documents/repos/leetcode/LeetCode/Kids-With-The-Greatest-Number-With-Candies/bin/Release/net6.0/Kids-With-The-Greatest-Number-With-Candies.deps.json
+/Users/samuelperalta/Documents/repos/leetcode/LeetCode/Kids-With-The-Greatest-Number-With-Candies/bin/Release/net6.0/Kids-With-The-Greatest-Number-With-Candies.runtimeconfig.json
+/Users/samuelperalta/Documents/repos/leetcode/LeetCode/Kids-With-The-Greatest-Number-With-Candies/bin/Release/net6.0/Kids-With-The-Greatest-Number-With-Candies.dll
+/Users/samuelperalta/Documents/repos/leetcode/LeetCode/Kids-With-The-Greatest-Number-With-Candies/bin/Release/net6.0/Kids-With-The-Greatest-Number-With-Candies.pdb
+/Users/samuelperalta/Documents/repos/leetcode/LeetCode/Kids-With-The-Greatest-Number-With-Candies/obj/Release/net6.0/Kids-With-The-Greatest-Number-With-Candies.dll
+/Users/samuelperalta/Documents/repos/leetcode/LeetCode/Kids-With-The-Greatest-Number-With-Candies/obj/Release/net6.0/refint/Kids-With-The-Greatest-Number-With-Candies.dll
+/Users/samuelperalta/Documents/repos/leetcode/LeetCode/Kids-With-The-Greatest-Number-With-Candies/obj/Release/net6.0/Kids-With-The-Greatest-Number-With-Candies.pdb
+/Users/samuelperalta/Documents/repos/leetcode/LeetCode/Kids-With-The-Greatest-Number-With-Candies/obj/Release/net6.0/Kids-With-The-Greatest-Number-With-Candies.genruntimeconfig.cache
+/Users/samuelperalta/Documents/repos/leetcode/LeetCode/Kids-With-The-Greatest-Number-With-Candies/obj/Release/net6.0/ref/Kids-With-The-Greatest-Number-With-Candies.dll

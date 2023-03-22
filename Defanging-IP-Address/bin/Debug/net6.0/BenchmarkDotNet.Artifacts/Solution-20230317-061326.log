@@ -1,0 +1,76 @@
+// Validating benchmarks:
+//    * No loggers defined, you will not see any progress!
+
+//    * No exporters defined, results will not be persisted.
+
+//    * No column providers defined, result table will be empty.
+
+// ***** BenchmarkRunner: Start   *****
+// ***** Found 2 benchmark(s) in total *****
+// ***** Building 1 exe(s) in Parallel: Start   *****
+// start dotnet  restore /p:UseSharedCompilation=false /p:BuildInParallel=false /m:1 /p:Deterministic=true /p:Optimize=true in /Users/samuelperalta/Documents/repos/leetcode/LeetCode/Defanging-IP-Address/bin/Debug/net6.0/6e494dc1-3f1a-4a6d-a149-ff689db21c3d
+// command took 2.92s and exited with 0
+// start dotnet  build -c Release --no-restore /p:UseSharedCompilation=false /p:BuildInParallel=false /m:1 /p:Deterministic=true /p:Optimize=true in /Users/samuelperalta/Documents/repos/leetcode/LeetCode/Defanging-IP-Address/bin/Debug/net6.0/6e494dc1-3f1a-4a6d-a149-ff689db21c3d
+// command took 8.37s and exited with 0
+// ***** Done, took 00:00:11 (11.61 sec)   *****
+// Found 2 benchmarks:
+//   Solution.DefangIPaddrOne: DefaultJob [address=1.1.1.1]
+//   Solution.DefangIPaddrTwo: DefaultJob [address=1.1.1.1]
+
+// **************************
+// Benchmark: Solution.DefangIPaddrOne: DefaultJob [address=1.1.1.1]
+// *** Execute ***
+// Launch: 1 / 1
+// Execute: dotnet 6e494dc1-3f1a-4a6d-a149-ff689db21c3d.dll --anonymousPipes 88 89 --benchmarkName "Solution.DefangIPaddrOne(address: \"1.1.1.1\")" --job Default --benchmarkId 0 in /Users/samuelperalta/Documents/repos/leetcode/LeetCode/Defanging-IP-Address/bin/Debug/net6.0/6e494dc1-3f1a-4a6d-a149-ff689db21c3d/bin/Release/net6.0
+Failed to set up high priority. Make sure you have the right permissions. Message: Permission denied
+ExitCode != 0 and no results reported
+No Workload Results were obtained from the run.
+// Benchmark Process 1498 has exited with code 150.
+
+// ** Remained 1 (50.0%) benchmark(s) to run. Estimated finish 2023-03-17 6:13 (0h 0m from now) **
+// **************************
+// Benchmark: Solution.DefangIPaddrTwo: DefaultJob [address=1.1.1.1]
+// *** Execute ***
+// Launch: 1 / 1
+// Execute: dotnet 6e494dc1-3f1a-4a6d-a149-ff689db21c3d.dll --anonymousPipes 88 89 --benchmarkName "Solution.DefangIPaddrTwo(address: \"1.1.1.1\")" --job Default --benchmarkId 1 in /Users/samuelperalta/Documents/repos/leetcode/LeetCode/Defanging-IP-Address/bin/Debug/net6.0/6e494dc1-3f1a-4a6d-a149-ff689db21c3d/bin/Release/net6.0
+Failed to set up high priority. Make sure you have the right permissions. Message: Permission denied
+ExitCode != 0 and no results reported
+No Workload Results were obtained from the run.
+// Benchmark Process 1500 has exited with code 150.
+
+// ** Remained 0 (0.0%) benchmark(s) to run. Estimated finish 2023-03-17 6:13 (0h 0m from now) **
+// ***** BenchmarkRunner: Finish  *****
+
+// * Export *
+
+// * Detailed results *
+Solution.DefangIPaddrOne: DefaultJob [address=1.1.1.1]
+Runtime = ; GC = 
+There are not any results runs
+
+Solution.DefangIPaddrTwo: DefaultJob [address=1.1.1.1]
+Runtime = ; GC = 
+There are not any results runs
+
+// * Summary *
+
+BenchmarkDotNet=v0.13.5.2136-nightly, OS=macOS Monterey 12.6.3 (21G419) [Darwin 21.6.0]
+Intel Core i5-4278U CPU 2.60GHz (Haswell), 1 CPU, 4 logical and 2 physical cores
+.NET SDK=7.0.100
+  [Host] : .NET 6.0.10 (6.0.1022.47605), X64 RyuJIT AVX2 DEBUG
+
+
+There are no columns to show 
+
+Benchmarks with issues:
+  Solution.DefangIPaddrOne: DefaultJob [address=1.1.1.1]
+  Solution.DefangIPaddrTwo: DefaultJob [address=1.1.1.1]
+
+// * Diagnostic Output - MemoryDiagnoser *
+
+
+// ***** BenchmarkRunner: End *****
+Run time: 00:00:00 (0.17 sec), executed benchmarks: 2
+
+Global total time: 00:00:12 (12.36 sec), executed benchmarks: 2
+// * Artifacts cleanup *

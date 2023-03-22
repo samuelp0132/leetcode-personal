@@ -1,0 +1,15 @@
+/Users/samuelperalta/Documents/repos/leetcode/LeetCode/Decompress-Run-Length-Encoded-List/bin/Release/net6.0/Decompress-Run-Length-Encoded-List
+/Users/samuelperalta/Documents/repos/leetcode/LeetCode/Decompress-Run-Length-Encoded-List/bin/Release/net6.0/Decompress-Run-Length-Encoded-List.deps.json
+/Users/samuelperalta/Documents/repos/leetcode/LeetCode/Decompress-Run-Length-Encoded-List/bin/Release/net6.0/Decompress-Run-Length-Encoded-List.runtimeconfig.json
+/Users/samuelperalta/Documents/repos/leetcode/LeetCode/Decompress-Run-Length-Encoded-List/bin/Release/net6.0/Decompress-Run-Length-Encoded-List.dll
+/Users/samuelperalta/Documents/repos/leetcode/LeetCode/Decompress-Run-Length-Encoded-List/bin/Release/net6.0/Decompress-Run-Length-Encoded-List.pdb
+/Users/samuelperalta/Documents/repos/leetcode/LeetCode/Decompress-Run-Length-Encoded-List/obj/Release/net6.0/Decompress-Run-Length-Encoded-List.csproj.AssemblyReference.cache
+/Users/samuelperalta/Documents/repos/leetcode/LeetCode/Decompress-Run-Length-Encoded-List/obj/Release/net6.0/Decompress-Run-Length-Encoded-List.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samuelperalta/Documents/repos/leetcode/LeetCode/Decompress-Run-Length-Encoded-List/obj/Release/net6.0/Decompress-Run-Length-Encoded-List.AssemblyInfoInputs.cache
+/Users/samuelperalta/Documents/repos/leetcode/LeetCode/Decompress-Run-Length-Encoded-List/obj/Release/net6.0/Decompress-Run-Length-Encoded-List.AssemblyInfo.cs
+/Users/samuelperalta/Documents/repos/leetcode/LeetCode/Decompress-Run-Length-Encoded-List/obj/Release/net6.0/Decompress-Run-Length-Encoded-List.csproj.CoreCompileInputs.cache
+/Users/samuelperalta/Documents/repos/leetcode/LeetCode/Decompress-Run-Length-Encoded-List/obj/Release/net6.0/Decompress-Run-Length-Encoded-List.dll
+/Users/samuelperalta/Documents/repos/leetcode/LeetCode/Decompress-Run-Length-Encoded-List/obj/Release/net6.0/refint/Decompress-Run-Length-Encoded-List.dll
+/Users/samuelperalta/Documents/repos/leetcode/LeetCode/Decompress-Run-Length-Encoded-List/obj/Release/net6.0/Decompress-Run-Length-Encoded-List.pdb
+/Users/samuelperalta/Documents/repos/leetcode/LeetCode/Decompress-Run-Length-Encoded-List/obj/Release/net6.0/Decompress-Run-Length-Encoded-List.genruntimeconfig.cache
+/Users/samuelperalta/Documents/repos/leetcode/LeetCode/Decompress-Run-Length-Encoded-List/obj/Release/net6.0/ref/Decompress-Run-Length-Encoded-List.dll

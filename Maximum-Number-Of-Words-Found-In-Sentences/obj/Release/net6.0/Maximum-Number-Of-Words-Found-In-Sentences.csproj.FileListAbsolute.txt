@@ -1,0 +1,15 @@
+/Users/samuelperalta/Documents/repos/leetcode/LeetCode/Maximum-Number-Of-Words-Found-In-Sentences/bin/Release/net6.0/Maximum-Number-Of-Words-Found-In-Sentences
+/Users/samuelperalta/Documents/repos/leetcode/LeetCode/Maximum-Number-Of-Words-Found-In-Sentences/bin/Release/net6.0/Maximum-Number-Of-Words-Found-In-Sentences.deps.json
+/Users/samuelperalta/Documents/repos/leetcode/LeetCode/Maximum-Number-Of-Words-Found-In-Sentences/bin/Release/net6.0/Maximum-Number-Of-Words-Found-In-Sentences.runtimeconfig.json
+/Users/samuelperalta/Documents/repos/leetcode/LeetCode/Maximum-Number-Of-Words-Found-In-Sentences/bin/Release/net6.0/Maximum-Number-Of-Words-Found-In-Sentences.dll
+/Users/samuelperalta/Documents/repos/leetcode/LeetCode/Maximum-Number-Of-Words-Found-In-Sentences/bin/Release/net6.0/Maximum-Number-Of-Words-Found-In-Sentences.pdb
+/Users/samuelperalta/Documents/repos/leetcode/LeetCode/Maximum-Number-Of-Words-Found-In-Sentences/obj/Release/net6.0/Maximum-Number-Of-Words-Found-In-Sentences.csproj.AssemblyReference.cache
+/Users/samuelperalta/Documents/repos/leetcode/LeetCode/Maximum-Number-Of-Words-Found-In-Sentences/obj/Release/net6.0/Maximum-Number-Of-Words-Found-In-Sentences.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samuelperalta/Documents/repos/leetcode/LeetCode/Maximum-Number-Of-Words-Found-In-Sentences/obj/Release/net6.0/Maximum-Number-Of-Words-Found-In-Sentences.AssemblyInfoInputs.cache
+/Users/samuelperalta/Documents/repos/leetcode/LeetCode/Maximum-Number-Of-Words-Found-In-Sentences/obj/Release/net6.0/Maximum-Number-Of-Words-Found-In-Sentences.AssemblyInfo.cs
+/Users/samuelperalta/Documents/repos/leetcode/LeetCode/Maximum-Number-Of-Words-Found-In-Sentences/obj/Release/net6.0/Maximum-Number-Of-Words-Found-In-Sentences.csproj.CoreCompileInputs.cache
+/Users/samuelperalta/Documents/repos/leetcode/LeetCode/Maximum-Number-Of-Words-Found-In-Sentences/obj/Release/net6.0/Maximum-Number-Of-Words-Found-In-Sentences.dll
+/Users/samuelperalta/Documents/repos/leetcode/LeetCode/Maximum-Number-Of-Words-Found-In-Sentences/obj/Release/net6.0/refint/Maximum-Number-Of-Words-Found-In-Sentences.dll
+/Users/samuelperalta/Documents/repos/leetcode/LeetCode/Maximum-Number-Of-Words-Found-In-Sentences/obj/Release/net6.0/Maximum-Number-Of-Words-Found-In-Sentences.pdb
+/Users/samuelperalta/Documents/repos/leetcode/LeetCode/Maximum-Number-Of-Words-Found-In-Sentences/obj/Release/net6.0/Maximum-Number-Of-Words-Found-In-Sentences.genruntimeconfig.cache
+/Users/samuelperalta/Documents/repos/leetcode/LeetCode/Maximum-Number-Of-Words-Found-In-Sentences/obj/Release/net6.0/ref/Maximum-Number-Of-Words-Found-In-Sentences.dll
