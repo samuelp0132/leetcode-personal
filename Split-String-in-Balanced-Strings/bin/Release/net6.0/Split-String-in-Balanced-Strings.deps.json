@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Split-String-in-Balanced-Strings/1.0.0": {
+        "runtime": {
+          "Split-String-in-Balanced-Strings.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Split-String-in-Balanced-Strings/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

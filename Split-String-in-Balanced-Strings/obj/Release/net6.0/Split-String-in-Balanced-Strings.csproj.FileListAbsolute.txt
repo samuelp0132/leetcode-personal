@@ -1,0 +1,15 @@
+/Users/samuelperalta/Documents/repos/leetcode/LeetCode/Split-String-in-Balanced-Strings/bin/Release/net6.0/Split-String-in-Balanced-Strings
+/Users/samuelperalta/Documents/repos/leetcode/LeetCode/Split-String-in-Balanced-Strings/bin/Release/net6.0/Split-String-in-Balanced-Strings.deps.json
+/Users/samuelperalta/Documents/repos/leetcode/LeetCode/Split-String-in-Balanced-Strings/bin/Release/net6.0/Split-String-in-Balanced-Strings.runtimeconfig.json
+/Users/samuelperalta/Documents/repos/leetcode/LeetCode/Split-String-in-Balanced-Strings/bin/Release/net6.0/Split-String-in-Balanced-Strings.dll
+/Users/samuelperalta/Documents/repos/leetcode/LeetCode/Split-String-in-Balanced-Strings/bin/Release/net6.0/Split-String-in-Balanced-Strings.pdb
+/Users/samuelperalta/Documents/repos/leetcode/LeetCode/Split-String-in-Balanced-Strings/obj/Release/net6.0/Split-String-in-Balanced-Strings.csproj.AssemblyReference.cache
+/Users/samuelperalta/Documents/repos/leetcode/LeetCode/Split-String-in-Balanced-Strings/obj/Release/net6.0/Split-String-in-Balanced-Strings.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samuelperalta/Documents/repos/leetcode/LeetCode/Split-String-in-Balanced-Strings/obj/Release/net6.0/Split-String-in-Balanced-Strings.AssemblyInfoInputs.cache
+/Users/samuelperalta/Documents/repos/leetcode/LeetCode/Split-String-in-Balanced-Strings/obj/Release/net6.0/Split-String-in-Balanced-Strings.AssemblyInfo.cs
+/Users/samuelperalta/Documents/repos/leetcode/LeetCode/Split-String-in-Balanced-Strings/obj/Release/net6.0/Split-String-in-Balanced-Strings.csproj.CoreCompileInputs.cache
+/Users/samuelperalta/Documents/repos/leetcode/LeetCode/Split-String-in-Balanced-Strings/obj/Release/net6.0/Split-String-in-Balanced-Strings.dll
+/Users/samuelperalta/Documents/repos/leetcode/LeetCode/Split-String-in-Balanced-Strings/obj/Release/net6.0/refint/Split-String-in-Balanced-Strings.dll
+/Users/samuelperalta/Documents/repos/leetcode/LeetCode/Split-String-in-Balanced-Strings/obj/Release/net6.0/Split-String-in-Balanced-Strings.pdb
+/Users/samuelperalta/Documents/repos/leetcode/LeetCode/Split-String-in-Balanced-Strings/obj/Release/net6.0/Split-String-in-Balanced-Strings.genruntimeconfig.cache
+/Users/samuelperalta/Documents/repos/leetcode/LeetCode/Split-String-in-Balanced-Strings/obj/Release/net6.0/ref/Split-String-in-Balanced-Strings.dll
