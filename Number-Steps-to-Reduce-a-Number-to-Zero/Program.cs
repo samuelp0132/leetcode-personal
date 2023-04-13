@@ -1,8 +1,8 @@
 ﻿int NumberOfSteps(int num) {
-    var stepsCount = 0;
-    for (var i = 0; i < num; i++)
+    ushort stepsCount = 0;
+    for (var i = 0; num > 0 ; i++)
     {
-        if (checkIfDivisor(num))
+        if (num % 2 == 0)
         {
             num /= 2;
             stepsCount++;
@@ -12,12 +12,6 @@
             num -= 1;
             stepsCount++;
         }
-        
     }
-
     return stepsCount;
-}
-
-bool checkIfDivisor(int val){
-    return val % 2 == 0 ? true : false;
 }
